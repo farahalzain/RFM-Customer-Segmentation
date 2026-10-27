@@ -68,11 +68,9 @@ RFM-Customer-Segmentation/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
-│   └── RFM_Customer_Segmentation.ipynb   # Add your completed notebook
-├── outputs/
-│   └── rfm_customer_segments.csv         # Exported by your notebook
-└── figures/                              # Optional exported charts
+├── RFM_Customer_Segmentation.ipynb   # Add your completed notebook
+├── rfm_customer_segments.csv         # Exported by your notebook
+
 ```
 
 The notebook and output CSV should be added from the **completed analysis** before publishing; they are not included in this starter package.
